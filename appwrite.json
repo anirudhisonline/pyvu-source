@@ -1,0 +1,21 @@
+{
+    "projectId": "646e4104545b97c89aa3",
+    "projectName": "pyvu",
+    "functions": [
+        {
+            "$id": "648579b973ccff4eedc4",
+            "name": "joinInvite",
+            "runtime": "node-16.0",
+            "path": "functions/joinInvite",
+            "entrypoint": "src/index.js",
+            "ignore": [
+                "node_modules",
+                ".npm"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
